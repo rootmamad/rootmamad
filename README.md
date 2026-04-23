@@ -1,41 +1,33 @@
-# 👋 Hi, I'm Mohammad Hosein Sadeghi  
+# 👋 Hi, I'm Mohammad Hosein Sadeghi
 
-🌐 A passionate **Web Developer** with experience in **Django** and backend development  
-🚀 2nd year **Computer Engineering student** at University of Tabriz  
-💡 Interested in **AI, Prompt Engineering, and Deep Learning**  
-🤖 Experienced in **Telegram Bot development**  
-☕ Have some experience with **Java**  
-⚡ Familiar with **Flask** and **FastAPI**  
-📚 Always learning and exploring new technologies every day  
+🌐 **Backend Developer & Security Enthusiast**  
+🚀 **Computer Engineering Student** at University of Tabriz  
+🛡️ Passionate about building secure, scalable backend systems and exploring **Web Security**  
+🔗 Personal Website: [mmdhosein.ir](https://mmdhosein.ir)  
 
 ---
+
+## 👨‍💻 About Me
+I specialize in Python and backend architecture. My current focus is on developing robust APIs, implementing clean architecture, and understanding the security aspects of web applications (Secure Coding, OWASP). I enjoy solving complex logical problems and automating tasks.
 
 ## 🔧 Technologies & Tools
-- 🐍 Python, Django, Django REST Framework  
-- 🤖 AI & Machine Learning basics, Deep Learning  
-- 🌐 HTML, CSS, JavaScript  
-- ☕ Java  
-- ⚡ Flask, FastAPI  
-- 🗄️ PostgreSQL, MySQL, SQLite  
-- ⚙️ Git, GitHub, Docker (basics)  
-- 🖥️ PyCharm, VS Code  
+
+*   **Backend Development:** Python, Django, Django REST Framework (DRF), FastAPI, Flask
+*   **Architecture & Messaging:** Clean Architecture, RabbitMQ, JWT Authentication
+*   **Databases:** PostgreSQL, MySQL, SQLite
+*   **Testing & Automation:** Selenium (Advanced), Web Scraping, Telegram Bots
+*   **DevOps & Tools:** Linux, Git/GitHub, Docker, Nginx, Wireshark
 
 ---
 
-
-## 🌱 Currently Learning
-- Advanced **Django** patterns  
-- **RESTful APIs** & **DRF**  
-- AI & **Prompt Engineering**  
-- Deployment with **Docker** & **Linux servers**  
+## 🌱 Currently Focusing On
+*   **Secure Backend Development:** Integrating security best practices into APIs
+*   **Linux & DevOps:** Deepening knowledge in Docker, Namespaces, and server deployments
+*   **Web Security:** Penetration testing basics and secure computing concepts
 
 ---
 
-## 🤝 Connect with me
-- 📧 Email: rootmamad06@gmail.com 
-- 💼 LinkedIn: [Your Profile](https://www.linkedin.com/in/mohammad-hosein-sadeghi-9341a1358)
-
-
----
-
-⭐️ From [rootmamad](https://github.com/rootmamad)
+## 🤝 Let's Connect
+*   🌐 **Website:** [mmdhosein.ir](https://mmdhosein.ir)
+*   💼 **LinkedIn:** [Mohammad Hosein Sadeghi](https://www.linkedin.com/in/mohammad-hosein-sadeghi-9341a1358)
+*   📧 **Email:** rootmamad06@gmail.com
